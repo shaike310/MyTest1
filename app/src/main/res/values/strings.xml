@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">מהי רותם?</string>
+    <string name="text_view">נא להיות ישירים בנושא! מהי לדעתכם רותם?</string>
+    <string name="text_edit_hint">רותם היא..</string>
+
+    <string-array name="selection_options">
+        <item>רותם היא קופה</item>
+        <item>רותם היא קופה מספר אחת</item>
+        <item>רותם היא קופה, אבל הקופה שלי</item>
+        <item>אין אופציות נוספות</item>
+        <item>אל תחפשי אופציות נוספות:)</item>
+    </string-array>
+
+    <string-array name="text_1">
+        <item>sdf</item>
+    </string-array>
+</resources>
